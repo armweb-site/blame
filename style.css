@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(181, 188, 216);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: #2A3663;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    margin-top: 0%;
+}
+header > img {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
